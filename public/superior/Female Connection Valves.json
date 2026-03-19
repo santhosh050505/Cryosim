@@ -1,0 +1,153 @@
+[
+    {
+        "Part Number": "3030",
+        "Port Diameter": "0.4375",
+        "Size (Inches)": {
+            "Inlet NPT": "0.5",
+            "Outlet FPT": "0.5"
+        },
+        "Dimensions": {
+            "A (inches)": "3.69"
+        },
+        "Discharge Capacity (psig)": {
+            "235": "35.4",
+            "300": "44.7",
+            "350": "51.8",
+            "400": "58.9",
+            "425": "62.5",
+            "450": "66.1",
+            "500": "73.2"
+        }
+    },
+    {
+        "Part Number": "3031",
+        "Port Diameter": "0.4375",
+        "Size (Inches)": {
+            "Inlet NPT": "0.5",
+            "Outlet FPT": "0.5"
+        },
+        "Dimensions": {
+            "A (inches)": "4"
+        },
+        "Discharge Capacity (psig)": {
+            "235": "35.4",
+            "300": "44.7",
+            "350": "51.8",
+            "400": "58.9",
+            "425": "62.5",
+            "450": "66.1",
+            "500": "73.2"
+        }
+    },
+    {
+        "Part Number": "3045",
+        "Port Diameter": "0.4375",
+        "Size (Inches)": {
+            "Inlet NPT": "0.75",
+            "Outlet FPT": "0.75"
+        },
+        "Dimensions": {
+            "A (inches)": "4"
+        },
+        "Discharge Capacity (psig)": {
+            "235": "35.4",
+            "300": "44.7",
+            "350": "51.8",
+            "400": "58.9",
+            "425": "62.5",
+            "450": "66.1",
+            "500": "73.2"
+        }
+    },
+    {
+        "Part Number": "3060",
+        "Port Diameter": "0.71875",
+        "Size (Inches)": {
+            "Inlet NPT": "1",
+            "Outlet FPT": "1"
+        },
+        "Dimensions": {
+            "A (inches)": "4.87"
+        },
+        "Discharge Capacity (psig)": {
+            "235": "85.4",
+            "300": "107.7",
+            "350": "124.9",
+            "400": "142.1",
+            "425": "150.7",
+            "450": "159.3",
+            "500": null
+        }
+    },
+    {
+        "Part Number": "3075",
+        "Port Diameter": "0.71875",
+        "Size (Inches)": {
+            "Inlet NPT": "1.25",
+            "Outlet FPT": "1.25"
+        },
+        "Dimensions": {
+            "A (inches)": "5.12"
+        },
+        "Discharge Capacity (psig)": {
+            "235": "85.4",
+            "300": "107.7",
+            "350": "124.9",
+            "400": null,
+            "425": null,
+            "450": null,
+            "500": null
+        }
+    },
+    {
+        "Part Number": "3030C",
+        "Port Diameter": "0.4375",
+        "Size (Inches)": {
+            "Inlet NPT": "0.5",
+            "Outlet FPT": "0.5"
+        },
+        "Dimensions": {
+            "A (inches)": "3.69"
+        },
+        "Discharge Capacity (psig)": {
+            "550": "80.3",
+            "600": "87.5",
+            "650": "94.6",
+            "700": "101.7"
+        }
+    },
+    {
+        "Part Number": "3031C",
+        "Port Diameter": "0.4375",
+        "Size (Inches)": {
+            "Inlet NPT": "0.5",
+            "Outlet FPT": "0.75"
+        },
+        "Dimensions": {
+            "A (inches)": "4"
+        },
+        "Discharge Capacity (psig)": {
+            "550": "80.3",
+            "600": "87.5",
+            "650": "94.6",
+            "700": "101.7"
+        }
+    },
+    {
+        "Part Number": "3045C",
+        "Port Diameter": "0.4375",
+        "Size (Inches)": {
+            "Inlet NPT": "0.75",
+            "Outlet FPT": "0.75"
+        },
+        "Dimensions": {
+            "A (inches)": "4"
+        },
+        "Discharge Capacity (psig)": {
+            "550": "80.3",
+            "600": "87.5",
+            "650": "94.6",
+            "700": "101.7"
+        }
+    }
+]

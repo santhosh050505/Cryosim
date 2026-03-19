@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "part_number": "B 34425",
+            "nptfe_A_in": 0.75,
+            "dimension": {
+                "B_in": 1.65,
+                "B_mm": 42,
+                "C_in": 1.13,
+                "C_mm": 29
+            },
+            "weight": {
+                "lb": 0.36,
+                "kg": 0.16
+            },
+            "discharge_table": "B",
+            "working_pressure": "150 \u2010 700 psi"
+        },
+        {
+            "part_number": "A 17970",
+            "nptfe_A_in": 1.0,
+            "dimension": {
+                "B_in": 2.37,
+                "B_mm": 60,
+                "C_in": 1.31,
+                "C_mm": 33
+            },
+            "weight": {
+                "lb": 0.56,
+                "kg": 0.25
+            },
+            "discharge_table": "I",
+            "working_pressure": "150 \u2010 450 psi"
+        },
+        {
+            "part_number": "A 18473",
+            "nptfe_A_in": 1.5,
+            "dimension": {
+                "B_in": 3.14,
+                "B_mm": 80,
+                "C_in": 1.9,
+                "C_mm": 48
+            },
+            "weight": {
+                "lb": 1.73,
+                "kg": 0.78
+            },
+            "discharge_table": "F",
+            "working_pressure": "150 \u2010 450 psi"
+        }
+    ]
+}

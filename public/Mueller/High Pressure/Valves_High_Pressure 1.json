@@ -1,0 +1,293 @@
+{
+    "Angle_NPTFE_to_Flare": [
+        {
+            "part_number": "B 33746",
+            "inlet_size": "1/4",
+            "outlet_size": "3/8",
+            "C_in": 2.43,
+            "C_mm": 62,
+            "weight_lb": 0.41,
+            "weight_kg": 0.18,
+            "discharge_table": "B",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "526EA",
+                "3212C"
+            ]
+        },
+        {
+            "part_number": "B 33754",
+            "inlet_size": "1/4",
+            "outlet_size": "1/2",
+            "C_in": 2.43,
+            "C_mm": 62,
+            "weight_lb": 0.43,
+            "weight_kg": 0.19,
+            "discharge_table": "B",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": null
+        },
+        {
+            "part_number": "A 18784",
+            "inlet_size": "3/8",
+            "outlet_size": "1/2",
+            "C_in": 4.1,
+            "C_mm": 104,
+            "weight_lb": 1.15,
+            "weight_kg": 0.52,
+            "discharge_table": "C",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "3216C"
+            ]
+        },
+        {
+            "part_number": "A 15512",
+            "inlet_size": "3/8",
+            "outlet_size": "3/8",
+            "C_in": 2.43,
+            "C_mm": 62,
+            "weight_lb": 0.37,
+            "weight_kg": 0.17,
+            "discharge_table": "B",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "526E",
+                "3214C"
+            ]
+        },
+        {
+            "part_number": "A 15513",
+            "inlet_size": "3/8",
+            "outlet_size": "1/2",
+            "C_in": 2.43,
+            "C_mm": 62,
+            "weight_lb": 0.37,
+            "weight_kg": 0.17,
+            "discharge_table": "B",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "526EB",
+                "3215C"
+            ]
+        },
+        {
+            "part_number": "A 15514",
+            "inlet_size": "1/2",
+            "outlet_size": "5/8",
+            "C_in": 4.1,
+            "C_mm": 104,
+            "weight_lb": 1.02,
+            "weight_kg": 0.46,
+            "discharge_table": "C",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "527E",
+                "3220C"
+            ]
+        }
+    ],
+    "Atmospheric_NPTFE_Inlet": [
+        {
+            "part_number": "A 18774",
+            "inlet_size": "1/8",
+            "outlet_size": "2.12",
+            "C_in": 1,
+            "C_mm": 25,
+            "weight_lb": 0.3,
+            "weight_kg": 0.14,
+            "discharge_table": "B",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "3000C"
+            ]
+        },
+        {
+            "part_number": "B 33755",
+            "inlet_size": "1/4",
+            "outlet_size": "2.12",
+            "C_in": 1,
+            "C_mm": 25,
+            "weight_lb": 0.26,
+            "weight_kg": 0.12,
+            "discharge_table": "B",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "3001C"
+            ]
+        },
+        {
+            "part_number": "A 17430",
+            "inlet_size": "3/8",
+            "outlet_size": "2.12",
+            "C_in": 1,
+            "C_mm": 25,
+            "weight_lb": 0.25,
+            "weight_kg": 0.11,
+            "discharge_table": "B",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "5223",
+                "3002C"
+            ]
+        }
+    ],
+    "Straight_Thru_NPTFE_to_Flare": [
+        {
+            "part_number": "B 33752",
+            "inlet_size": "1/4",
+            "outlet_size": "3/8",
+            "C_in": 2.81,
+            "C_mm": 71,
+            "weight_lb": 0.31,
+            "weight_kg": 0.14,
+            "discharge_table": "B",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "5230",
+                "3012C"
+            ]
+        },
+        {
+            "part_number": "B 33753",
+            "inlet_size": "1/4",
+            "outlet_size": "1/2",
+            "C_in": 3,
+            "C_mm": 76,
+            "weight_lb": 0.41,
+            "weight_kg": 0.18,
+            "discharge_table": "B",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": null
+        },
+        {
+            "part_number": "A 15502",
+            "inlet_size": "3/8",
+            "outlet_size": "3/8",
+            "C_in": 2.81,
+            "C_mm": 71,
+            "weight_lb": 0.34,
+            "weight_kg": 0.15,
+            "discharge_table": "B",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "5231",
+                "3014C"
+            ]
+        },
+        {
+            "part_number": "A 15503",
+            "inlet_size": "3/8",
+            "outlet_size": "1/2",
+            "C_in": 3,
+            "C_mm": 76,
+            "weight_lb": 0.35,
+            "weight_kg": 0.16,
+            "discharge_table": "B",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "5231-A",
+                "3015C"
+            ]
+        },
+        {
+            "part_number": "A 18737",
+            "inlet_size": "3/8",
+            "outlet_size": "5/8",
+            "C_in": 4.2,
+            "C_mm": 107,
+            "weight_lb": 0.98,
+            "weight_kg": 0.45,
+            "discharge_table": "C",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "5233A"
+            ]
+        },
+        {
+            "part_number": "A 18783",
+            "inlet_size": "3/8",
+            "outlet_size": "1/2",
+            "C_in": 4.2,
+            "C_mm": 107,
+            "weight_lb": 0.95,
+            "weight_kg": 0.43,
+            "discharge_table": "C",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "3016C"
+            ]
+        },
+        {
+            "part_number": "A 15504",
+            "inlet_size": "1/2",
+            "outlet_size": "5/8",
+            "C_in": 4.2,
+            "C_mm": 107,
+            "weight_lb": 0.84,
+            "weight_kg": 0.38,
+            "discharge_table": "C",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "5232",
+                "3020C"
+            ]
+        }
+    ],
+    "Straight_Thru_NPTFE_to_NPTFI": [
+        {
+            "part_number": "A 18736",
+            "inlet_size": "3/8",
+            "outlet_size": "3/4",
+            "C_in": 4,
+            "C_mm": 102,
+            "weight_lb": 0.98,
+            "weight_kg": 0.45,
+            "discharge_table": "C",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "5234A"
+            ]
+        },
+        {
+            "part_number": "A 18762",
+            "inlet_size": "1/2",
+            "outlet_size": "3/4",
+            "C_in": 4,
+            "C_mm": 102,
+            "weight_lb": 0.94,
+            "weight_kg": 0.43,
+            "discharge_table": "C",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": [
+                "5235A"
+            ]
+        },
+        {
+            "part_number": "A 18422",
+            "inlet_size": "3/4",
+            "outlet_size": "3/4",
+            "C_in": 4.95,
+            "C_mm": 126,
+            "weight_lb": 1.6,
+            "weight_kg": 0.73,
+            "discharge_table": "H",
+            "working_pressure": "600 - 700 psi",
+            "competitor_reference": null
+        }
+    ],
+    "Straight_Thread_Inlet_to_Flare": [
+        {
+            "part_number": "B 35413",
+            "inlet_size": "/8 – 14 UNF – 2",
+            "outlet_size": "5/8",
+            "C_in": 4.19,
+            "C_mm": 106,
+            "weight_lb": 0.92,
+            "weight_kg": 0.42,
+            "discharge_table": "C",
+            "working_pressure": "150 - 700 psi",
+            "competitor_reference": null
+        }
+    ]
+}

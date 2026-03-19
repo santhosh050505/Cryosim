@@ -1,0 +1,60 @@
+{
+    "valves": [
+        {
+            "part_number": "A 18774",
+            "inlet": {
+                "nptfe_A_in": "1/8"
+            },
+            "dimension": {
+                "B_in": 2.12,
+                "B_mm": 54,
+                "C_in": 1,
+                "C_mm": 25
+            },
+            "weight": {
+                "lb": 0.3,
+                "kg": 0.14
+            },
+            "discharge_table": "B",
+            "working_pressure": "150 \u2010 700 psi"
+        },
+        {
+            "part_number": "B 33755",
+            "inlet": {
+                "nptfe_A_in": "1/4"
+            },
+            "dimension": {
+                "B_in": 2.12,
+                "B_mm": 54,
+                "C_in": 1,
+                "C_mm": 25
+            },
+            "weight": {
+                "lb": 0.26,
+                "kg": 0.12
+            },
+            "discharge_table": "B",
+            "working_pressure": "150 \u2010 700 psi"
+        },
+        {
+            "part_number": "A 17430",
+            "inlet": {
+                "nptfe_A_in": "3/8"
+            },
+            "dimension": {
+                "B_in": 2.12,
+                "B_mm": 54,
+                "C_in": 1,
+                "C_mm": 25
+            },
+            "weight": {
+                "lb": 0.25,
+                "kg": 0.11
+            },
+            "discharge_table": "B",
+            "working_pressure": "150 \u2010 700 psi"
+        }
+    ]
+}
+
+

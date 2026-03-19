@@ -1,0 +1,92 @@
+[
+    {
+        "part_number": 2041,
+        "pump_down_capacity": "1.3 LBS.",
+        "connection_size": 0.5,
+        "diameter_a": 0.25,
+        "length_over_caps_b": 0.5833,
+        "inlet_outlet_connection": "1/4 Sweat",
+        "orientation": "Vert.",
+        "max_allowable_pressure": 675
+    },
+    {
+        "part_number": 2040,
+        "pump_down_capacity": "1.8 LBS.",
+        "connection_size": 0.5,
+        "diameter_a": 0.25,
+        "length_over_caps_b": 0.8333,
+        "inlet_outlet_connection": "1/4 Sweat",
+        "orientation": "Vert.",
+        "max_allowable_pressure": 675
+    },
+    {
+        "part_number": 3307,
+        "pump_down_capacity": "1.8 LBS.",
+        "connection_size": 0.5,
+        "diameter_a": 0.25,
+        "length_over_caps_b": 0.8333,
+        "inlet_outlet_connection": "1 Rotalock",
+        "orientation": "Vert.",
+        "max_allowable_pressure": 675
+    },
+    {
+        "part_number": 3308,
+        "pump_down_capacity": "3.6 LBS.",
+        "connection_size": 0.5,
+        "diameter_a": 0.3333,
+        "length_over_caps_b": 0.8333,
+        "inlet_outlet_connection": "1 Rotalock",
+        "orientation": "Vert.",
+        "max_allowable_pressure": 675
+    },
+    {
+        "part_number": 3309,
+        "pump_down_capacity": "5.5 LBS.",
+        "connection_size": 0.5,
+        "diameter_a": 0.4167,
+        "length_over_caps_b": 0.8333,
+        "inlet_outlet_connection": "1 Rotalock",
+        "orientation": "Vert.",
+        "max_allowable_pressure": 675
+    },
+    {
+        "part_number": 3310,
+        "pump_down_capacity": "9.0 LBS.",
+        "connection_size": 0.5,
+        "diameter_a": 0.5,
+        "length_over_caps_b": 1.0,
+        "inlet_outlet_connection": "1 Rotalock",
+        "orientation": "Vert.",
+        "max_allowable_pressure": 675
+    },
+    {
+        "part_number": 3377,
+        "pump_down_capacity": "14.0 LBS.",
+        "connection_size": 0.5,
+        "diameter_a": 0.5,
+        "length_over_caps_b": 1.5,
+        "inlet_outlet_connection": "1 Rotalock",
+        "orientation": "Vert.",
+        "max_allowable_pressure": 675
+    },
+    {
+        "part_number": 3378,
+        "pump_down_capacity": "19.3 LBS.",
+        "connection_size": 0.5,
+        "diameter_a": 0.5,
+        "length_over_caps_b": 2.0,
+        "inlet_outlet_connection": "1 Rotalock",
+        "orientation": "Vert.",
+        "max_allowable_pressure": 675
+    },
+    {
+        "part_number": 3379,
+        "pump_down_capacity": "24.6 LBS.",
+        "connection_size": 0.5,
+        "diameter_a": 0.5,
+        "length_over_caps_b": 2.5,
+        "inlet_outlet_connection": "1 Rotalock",
+        "orientation": "Vert.",
+        "max_allowable_pressure": 675
+    }
+]

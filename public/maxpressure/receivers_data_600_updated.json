@@ -1,0 +1,122 @@
+[
+    {
+        "part_number": "3110+",
+        "pump_down_capacity": 17,
+        "connection_size": 0.5,
+        "diameter_a": 0.7188,
+        "length_over_caps_b": 1.0,
+        "orientation": "Vert.",
+        "shipping_weight": 24,
+        "max_allowable_pressure": 600
+    },
+    {
+        "part_number": "3111+",
+        "pump_down_capacity": 24,
+        "connection_size": 0.5,
+        "diameter_a": 0.7188,
+        "length_over_caps_b": 1.3333,
+        "orientation": "Vert.",
+        "shipping_weight": 29,
+        "max_allowable_pressure": 600
+    },
+    {
+        "part_number": "3230",
+        "pump_down_capacity": 28,
+        "connection_size": 0.5,
+        "diameter_a": 0.7188,
+        "length_over_caps_b": 1.5,
+        "orientation": "Vert.",
+        "shipping_weight": 38,
+        "max_allowable_pressure": 600
+    },
+    {
+        "part_number": "3112",
+        "pump_down_capacity": 38,
+        "connection_size": 0.5,
+        "diameter_a": 0.7188,
+        "length_over_caps_b": 2.0,
+        "orientation": "Vert.",
+        "shipping_weight": 41,
+        "max_allowable_pressure": 600
+    },
+    {
+        "part_number": "3231",
+        "pump_down_capacity": 42,
+        "connection_size": 0.5,
+        "diameter_a": 0.8958,
+        "length_over_caps_b": 1.5,
+        "orientation": "Vert.",
+        "shipping_weight": 60,
+        "max_allowable_pressure": 600
+    },
+    {
+        "part_number": "3232",
+        "pump_down_capacity": 57,
+        "connection_size": 0.5,
+        "diameter_a": 0.8958,
+        "length_over_caps_b": 2.0,
+        "orientation": "Vert.",
+        "shipping_weight": 72,
+        "max_allowable_pressure": 600
+    },
+    {
+        "part_number": "3294 \u00ce\u201d",
+        "pump_down_capacity": 57,
+        "connection_size": 0.5,
+        "diameter_a": 0.8958,
+        "length_over_caps_b": 2.0,
+        "orientation": "Vert.",
+        "shipping_weight": 72,
+        "max_allowable_pressure": 600
+    },
+    {
+        "part_number": "3113",
+        "pump_down_capacity": 45,
+        "connection_size": 0.5,
+        "diameter_a": 0.7188,
+        "length_over_caps_b": 2.3333,
+        "orientation": "Horz.",
+        "shipping_weight": 46,
+        "max_allowable_pressure": 600
+    },
+    {
+        "part_number": "3233",
+        "pump_down_capacity": 59,
+        "connection_size": 0.5,
+        "diameter_a": 0.7188,
+        "length_over_caps_b": 3.0,
+        "orientation": "Horz.",
+        "shipping_weight": 84,
+        "max_allowable_pressure": 600
+    },
+    {
+        "part_number": "3114",
+        "pump_down_capacity": 69,
+        "connection_size": 0.5,
+        "diameter_a": 0.7188,
+        "length_over_caps_b": 3.5,
+        "orientation": "Horz.",
+        "shipping_weight": 66,
+        "max_allowable_pressure": 600
+    },
+    {
+        "part_number": "3236",
+        "pump_down_capacity": 81,
+        "connection_size": 0.5,
+        "diameter_a": 0.7188,
+        "length_over_caps_b": 4.0,
+        "orientation": "Horz.",
+        "shipping_weight": 100,
+        "max_allowable_pressure": 600
+    },
+    {
+        "part_number": "3238",
+        "pump_down_capacity": 94,
+        "connection_size": 0.5,
+        "diameter_a": 0.8958,
+        "length_over_caps_b": 3.0,
+        "orientation": "Horz.",
+        "shipping_weight": 100,
+        "max_allowable_pressure": 600
+    }
+]

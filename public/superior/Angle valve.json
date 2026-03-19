@@ -1,0 +1,166 @@
+[
+    {
+        "Part Number": "3212",
+        "Port Diameter": "0.1875",
+        "Size (Inches)": {
+            "Inlet NPT": "0.25",
+            "Outlet SAE": "0.375"
+        },
+        "Dimensions": {
+            "A (inches)": "2.92",
+            "B (inches)": "1.41"
+        },
+        "Discharge Capacity (psig)": {
+            "235": 7.9,
+            "300": 10,
+            "350": 11.6,
+            "400": 13.2,
+            "425": null, 
+            "450": 14.7,
+            "500": null
+        }
+    },
+    {
+        "Part Number": "3214",
+        "Port Diameter": "0.1875",
+        "Size (Inches)": {
+            "Inlet NPT": "0.375",
+            "Outlet SAE": "0.375"
+        },
+        "Dimensions": {
+            "A (inches)": "2.92",
+            "B (inches)": "1.41"
+        },
+        "Discharge Capacity (psig)": {
+            "235": 7.9,
+            "300": 10,
+            "350": 11.6,
+            "400": 13.2,
+            "425": null,
+            "450": 14.7,
+            "500": null
+        }
+    },
+    {
+        "Part Number": "3215",
+        "Port Diameter": "0.1875",
+        "Size (Inches)": {
+            "Inlet NPT": "0.375",
+            "Outlet SAE": "0.5"
+        },
+        "Dimensions": {
+            "A (inches)": "2.92",
+            "B (inches)": "1.41"
+        },
+        "Discharge Capacity (psig)": {
+            "235": null,
+            "300": 10,
+            "350": 11.6,
+            "400": 13.2,
+            "425": 14,
+            "450": 14.7,
+            "500": null
+        }
+    },
+    {
+        "Part Number": "3220",
+        "Port Diameter": "0.28125",
+        "Size (Inches)": {
+            "Inlet NPT": "0.5",
+            "Outlet SAE": "0.625"
+        },
+        "Dimensions": {
+            "A (inches)": "2.84",
+            "B (inches)": "1.62"
+        },
+        "Discharge Capacity (psig)": {
+            "235": 1.52,
+            "300": 19.1,
+            "350": 22.2,
+            "400": 25.2,
+            "425": 26.8,
+            "450": 28.3,
+            "500": 31.3
+        }
+    },
+    {
+        "Part Number": "3212C",
+        "Port Diameter": "0.1875",
+        "Size (Inches)": {
+            "Inlet NPT": "0.25",
+            "Outlet SAE": "0.375"
+        },
+        "Dimensions": {
+            "A (inches)": "2.92",
+            "B (inches)": "1.41"
+        },
+        "Discharge Capacity (psig)": {
+            "550": null,
+            "600": null,
+            "650": 21.1,
+            "700": null,
+            "750": null,
+            "800": null
+        }
+    },
+    {
+        "Part Number": "3214C",
+        "Port Diameter": "0.1875",
+        "Size (Inches)": {
+            "Inlet NPT": "0.375",
+            "Outlet SAE": "0.375"
+        },
+        "Dimensions": {
+            "A (inches)": "2.92",
+            "B (inches)": "1.41"
+        },
+        "Discharge Capacity (psig)": {
+            "550": 17.9,
+            "600": 19.5,
+            "650": null,
+            "700": null,
+            "750": null,
+            "800": null
+        }
+    },
+    {
+        "Part Number": "3215C",
+        "Port Diameter": "0.1875",
+        "Size (Inches)": {
+            "Inlet NPT": "0.375",
+            "Outlet SAE": "0.5"
+        },
+        "Dimensions": {
+            "A (inches)": "2.92",
+            "B (inches)": "1.41"
+        },
+        "Discharge Capacity (psig)": {
+            "550": null,
+            "600": null,
+            "650": 21.1,
+            "700": null,
+            "750": null,
+            "800": 25.9
+        }
+    },
+    {
+        "Part Number": "3220C",
+        "Port Diameter": "0.28125",
+        "Size (Inches)": {
+            "Inlet NPT": "0.5",
+            "Outlet SAE": "0.625"
+        },
+        "Dimensions": {
+            "A (inches)": "3.6",
+            "B (inches)": "1.62"
+        },
+        "Discharge Capacity (psig)": {
+            "550": null,
+            "600": 37.4,
+            "650": 40.5,
+            "700": 43.5,
+            "750": null,
+            "800": null
+        }
+    }
+]

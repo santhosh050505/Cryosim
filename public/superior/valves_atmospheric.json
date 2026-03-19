@@ -1,0 +1,119 @@
+[
+    {
+        "Part Number": "3000",
+        "Port Diameter": "0.1875",
+        "Size (Inches)": {
+            "Inlet NPT": "0.125",
+            "Outlet": "*"
+        },
+        "Dimensions": {
+            "A (inches)": "2.17"
+        },
+        "Discharge Capacity (psig)": {
+            "235": "7.9",
+            "300": "10.0",
+            "350": "11.6",
+            "400": "13.2",
+            "425": null,
+            "450": "14.7",
+            "500": null
+        }
+    },
+    {
+        "Part Number": "3001",
+        "Port Diameter": "0.1875",
+        "Size (Inches)": {
+            "Inlet NPT": "0.25",
+            "Outlet": "*"
+        },
+        "Dimensions": {
+            "A (inches)": "2.3"
+        },
+        "Discharge Capacity (psig)": {
+            "235": "7.9",
+            "300": "10.0",
+            "350": "11.6",
+            "400": "13.2",
+            "425": "14",
+            "450": "14.7",
+            "500": "16.3"
+        }
+    },
+    {
+        "Part Number": "3002",
+        "Port Diameter": "0.1875",
+        "Size (Inches)": {
+            "Inlet NPT": "0.375",
+            "Outlet": "*"
+        },
+        "Dimensions": {
+            "A (inches)": "2.3"
+        },
+        "Discharge Capacity (psig)": {
+            "235": "7.9",
+            "300": "10.0",
+            "350": "11.6",
+            "400": "13.2",
+            "425": "14",
+            "450": "14.7",
+            "500": "16.3"
+        }
+    },
+    {
+        "Part Number": "3000C",
+        "Port Diameter": "0.1875",
+        "Size (Inches)": {
+            "Inlet NPT": "0.125",
+            "Outlet": "*"
+        },
+        "Dimensions": {
+            "A (inches)": "2.17"
+        },
+        "Discharge Capacity (psig)": {
+            "550": "17.9",
+            "600": "19.5",
+            "650": null,
+            "700": "22.7",
+            "750": null,
+            "800": null
+        }
+    },
+    {
+        "Part Number": "3001C",
+        "Port Diameter": "0.1875",
+        "Size (Inches)": {
+            "Inlet NPT": "0.25",
+            "Outlet": "*"
+        },
+        "Dimensions": {
+            "A (inches)": "2.3"
+        },
+        "Discharge Capacity (psig)": {
+            "550": "17.9",
+            "600": "19.5",
+            "650": "21.1",
+            "700": "22.7",
+            "750": "24.3",
+            "800": "25.9"
+        }
+    },
+    {
+        "Part Number": "3002C",
+        "Port Diameter": "0.1875",
+        "Size (Inches)": {
+            "Inlet NPT": "0.375",
+            "Outlet": "*"
+        },
+        "Dimensions": {
+            "A (inches)": "2.3"
+        },
+        "Discharge Capacity (psig)": {
+            "550": "17.9",
+            "600": "19.5",
+            "650": "21.1",
+            "700": "22.7",
+            "750": null,
+            "800": null
+        }
+    }
+]
