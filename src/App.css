@@ -1,0 +1,85 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* ── Snap point heartbeat animation ─────────────────────────────────── */
+@keyframes snap-heartbeat {
+  0%   { r: 5; opacity: 1; }
+  14%  { r: 9; opacity: 0.8; }
+  28%  { r: 5; opacity: 1; }
+  42%  { r: 8; opacity: 0.7; }
+  56%  { r: 5; opacity: 1; }
+  100% { r: 5; opacity: 1; }
+}
+
+@keyframes snap-ripple {
+  0%   { r: 5;  opacity: 0.7; }
+  100% { r: 18; opacity: 0; }
+}
+
+.snap-point-beat {
+  animation: snap-heartbeat 0.6s ease-out forwards;
+}
+
+.snap-ripple {
+  animation: snap-ripple 0.6s ease-out forwards;
+  pointer-events: none;
+}
+
+/* ── Snap point source pulse — three staggered expanding rings ───────── */
+@keyframes snap-source-pulse {
+  0%   { r: 6;  opacity: 0.9; stroke-width: 2; }
+  100% { r: 22; opacity: 0;   stroke-width: 0.5; }
+}
+
+.snap-source-ring-1 {
+  animation: snap-source-pulse 1.2s ease-out infinite;
+  animation-delay: 0s;
+}
+.snap-source-ring-2 {
+  animation: snap-source-pulse 1.2s ease-out infinite;
+  animation-delay: 0.4s;
+}
+.snap-source-ring-3 {
+  animation: snap-source-pulse 1.2s ease-out infinite;
+  animation-delay: 0.8s;
+}

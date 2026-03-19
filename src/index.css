@@ -1,0 +1,208 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@layer base {
+  :root {
+    --background: 210 20% 98%;
+    --foreground: 222 47% 11%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+
+    --primary: 199 89% 48%; /* Cryo Blue */
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 222 47% 11%;
+
+    --muted: 210 40% 96%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 199 89% 48%;
+    --accent-foreground: 222 47% 11%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 199 89% 48%;
+
+    --radius: 0.75rem;
+
+    /* Tool-specific Cryo Tokens */
+    --canvas-bg: 210 20% 99%;
+    --canvas-grid: 210 20% 94%;
+    --canvas-grid-major: 210 20% 88%;
+    
+    --sidebar-tool-bg: 222 47% 11%; /* Deep Navy */
+    --sidebar-tool-fg: 210 40% 98%;
+    --sidebar-tool-muted: 215 20% 65%;
+    --sidebar-tool-hover: 217 33% 17%;
+    --sidebar-tool-active: 199 89% 48%;
+    --sidebar-tool-border: 217 33% 20%;
+    
+    --snap-indicator: 199 89% 48%;
+    --selection-border: 199 89% 48%;
+    --selection-handle: 0 0% 100%;
+    
+    --toolbar-bg: 0 0% 100% / 0.8;
+    --toolbar-border: 214.3 31.8% 91.4%;
+    
+    --stencil-hover: 217 33% 22%;
+    --stencil-active: 199 89% 48% / 0.2;
+
+    --sidebar-background: 210 20% 98%;
+    --sidebar-foreground: 222 47% 11%;
+    --sidebar-primary: 199 89% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 210 40% 96%;
+    --sidebar-accent-foreground: 222 47% 11%;
+    --sidebar-border: 214.3 31.8% 91.4%;
+    --sidebar-ring: 199 89% 48%;
+  }
+
+  .dark {
+    --background: 222 47% 6%;
+    --foreground: 210 40% 98%;
+    
+    --card: 222 47% 8%;
+    --card-foreground: 210 40% 98%;
+    
+    --popover: 222 47% 8%;
+    --popover-foreground: 210 40% 98%;
+    
+    --primary: 199 89% 48%;
+    --primary-foreground: 222 47% 6%;
+    
+    --secondary: 217 33% 12%;
+    --secondary-foreground: 210 40% 98%;
+    
+    --muted: 217 33% 12%;
+    --muted-foreground: 215 20% 65%;
+    
+    --accent: 199 89% 48%;
+    --accent-foreground: 210 40% 98%;
+    
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    
+    --border: 217 33% 15%;
+    --input: 217 33% 15%;
+    --ring: 199 89% 48%;
+    
+    --sidebar-background: 222 47% 6%;
+    --sidebar-foreground: 210 40% 98%;
+    --sidebar-border: 217 33% 15%;
+  }
+}
+
+@layer base {
+  * {
+    border-color: hsl(var(--border));
+  }
+
+  body {
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+@layer components {
+  .canvas-grid {
+    background-color: hsl(var(--canvas-bg));
+    background-image:
+      linear-gradient(hsl(var(--canvas-grid)) 1px, transparent 1px),
+      linear-gradient(90deg, hsl(var(--canvas-grid)) 1px, transparent 1px),
+      linear-gradient(hsl(var(--canvas-grid-major)) 1px, transparent 1px),
+      linear-gradient(90deg, hsl(var(--canvas-grid-major)) 1px, transparent 1px);
+    background-size: 20px 20px, 20px 20px, 100px 100px, 100px 100px;
+  }
+
+  .snap-line-h {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: hsl(var(--snap-indicator));
+    pointer-events: none;
+    z-index: 50;
+  }
+
+  .snap-line-v {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: hsl(var(--snap-indicator));
+    pointer-events: none;
+    z-index: 50;
+  }
+
+  .stencil-panel {
+    background: hsl(var(--sidebar-tool-bg));
+    color: hsl(var(--sidebar-tool-fg));
+    border-right: 1px solid hsl(var(--sidebar-tool-border));
+  }
+
+  .stencil-item {
+    background: hsl(var(--sidebar-tool-hover));
+    border: 1px solid hsl(var(--sidebar-tool-border));
+    transition: all 0.15s ease;
+    cursor: grab;
+  }
+
+  .stencil-item:hover {
+    border-color: hsl(var(--sidebar-tool-active));
+    background: hsl(var(--stencil-active));
+  }
+
+  .stencil-item:active {
+    cursor: grabbing;
+  }
+
+  .canvas-element-selected {
+    outline: 2px solid hsl(var(--selection-border));
+    outline-offset: 4px;
+  }
+
+  .snap-point {
+    fill: hsl(0, 84%, 60%);
+    stroke: hsl(var(--primary-foreground));
+    stroke-width: 2;
+    r: 5;
+    opacity: 0;
+    transition: opacity 0.15s ease;
+  }
+
+  .canvas-element:hover .snap-point,
+  .canvas-element-selected .snap-point {
+    opacity: 1;
+  }
+
+  .snap-point-connecting {
+    opacity: 1 !important;
+    animation: pulse-snap 1s ease-in-out infinite;
+  }
+
+  @keyframes pulse-snap {
+    0%, 100% { r: 5; }
+    50% { r: 8; }
+  }
+
+  .toolbar-top {
+    background: hsl(var(--toolbar-bg));
+    border-bottom: 1px solid hsl(var(--toolbar-border));
+  }
+}
