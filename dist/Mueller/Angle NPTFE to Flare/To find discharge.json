@@ -1,0 +1,180 @@
+{
+    "PSIG_Data": [
+        {
+            "PSIG": "235",
+            "Capacities": {
+                "A": 4.3,
+                "B": 9.1,
+                "C": 20.1,
+                "D": 33.7,
+                "E": 55.9,
+                "F": 91.8,
+                "G": 39.0,
+                "H": null,
+                "I": 29.0,
+                "J": 60.6,
+                "K": null
+            }
+        },
+        {
+            "PSIG": "300",
+            "Capacities": {
+                "A": 5.4,
+                "B": 11.5,
+                "C": 25.4,
+                "D": 42.5,
+                "E": 70.5,
+                "F": 115.8,
+                "G": 49.2,
+                "H": null,
+                "I": 36.6,
+                "J": 76.5,
+                "K": null
+            }
+        },
+        {
+            "PSIG": "350",
+            "Capacities": {
+                "A": 6.3,
+                "B": 13.3,
+                "C": 29.5,
+                "D": 49.3,
+                "E": 81.8,
+                "F": 134.3,
+                "G": 57.1,
+                "H": null,
+                "I": 42.4,
+                "J": 88.7,
+                "K": null
+            }
+        },
+        {
+            "PSIG": "400",
+            "Capacities": {
+                "A": 7.1,
+                "B": 15.2,
+                "C": 33.5,
+                "D": 56.1,
+                "E": 93.0,
+                "F": 152.7,
+                "G": 64.9,
+                "H": null,
+                "I": 48.2,
+                "J": null,
+                "K": null
+            }
+        },
+        {
+            "PSIG": "425",
+            "Capacities": {
+                "A": 7.6,
+                "B": 16.1,
+                "C": 35.6,
+                "D": 59.5,
+                "E": 98.6,
+                "F": 162.0,
+                "G": 68.8,
+                "H": null,
+                "I": 51.2,
+                "J": null,
+                "K": null
+            }
+        },
+        {
+            "PSIG": "450",
+            "Capacities": {
+                "A": 8.0,
+                "B": 17.0,
+                "C": 37.6,
+                "D": 62.9,
+                "E": 104.3,
+                "F": 171.2,
+                "G": 72.8,
+                "H": null,
+                "I": 54.1,
+                "J": null,
+                "K": null
+            }
+        },
+        {
+            "PSIG": "500",
+            "Capacities": {
+                "A": null,
+                "B": 18.8,
+                "C": 41.6,
+                "D": null,
+                "E": null,
+                "F": null,
+                "G": null,
+                "H": null,
+                "I": null,
+                "J": null,
+                "K": null
+            }
+        },
+        {
+            "PSIG": "550",
+            "Capacities": {
+                "A": null,
+                "B": 20.7,
+                "C": 45.6,
+                "D": null,
+                "E": null,
+                "F": null,
+                "G": null,
+                "H": null,
+                "I": null,
+                "J": null,
+                "K": null
+            }
+        },
+        {
+            "PSIG": "600",
+            "Capacities": {
+                "A": null,
+                "B": 22.5,
+                "C": 49.7,
+                "D": null,
+                "E": null,
+                "F": null,
+                "G": null,
+                "H": 88.9,
+                "I": null,
+                "J": null,
+                "K": null
+            }
+        },
+        {
+            "PSIG": "650",
+            "Capacities": {
+                "A": null,
+                "B": 24.3,
+                "C": 53.7,
+                "D": null,
+                "E": null,
+                "F": null,
+                "G": null,
+                "H": 96.2,
+                "I": null,
+                "J": null,
+                "K": null
+            }
+        },
+        {
+            "PSIG": "700",
+            "Capacities": {
+                "A": null,
+                "B": 26.2,
+                "C": 57.8,
+                "D": null,
+                "E": null,
+                "F": null,
+                "G": null,
+                "H": 103.4,
+                "I": null,
+                "J": null,
+                "K": null
+            }
+        }
+    ]
+}

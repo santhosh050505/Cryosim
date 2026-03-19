@@ -1,0 +1,296 @@
+{
+    "NPTFE Inlet to Flare Outlet": [
+        {
+            "Part Number *": "B 33752",
+            "NPTFE A (in)": "1/4",
+            "Flare B (in)": "3/8",
+            "C (in)": 2.81,
+            "C (mm)": 71,
+            "Wt (lb)": 0.31,
+            "Wt (kg)": 0.14,
+            "Discharge Table": "B",
+            "Working Pressure": "150 \u2010 700 psi"
+        },
+        {
+            "Part Number *": "B 33753",
+            "NPTFE A (in)": "1/4",
+            "Flare B (in)": "1/2",
+            "C (in)": 3,
+            "C (mm)": 76,
+            "Wt (lb)": 0.41,
+            "Wt (kg)": 0.18,
+            "Discharge Table": "B",
+            "Working Pressure": "150 \u2010 700 psi"
+        },
+        {
+            "Part Number *": "A 15502",
+            "NPTFE A (in)": "3/8",
+            "Flare B (in)": "3/8",
+            "C (in)": 2.81,
+            "C (mm)": 71,
+            "Wt (lb)": 0.34,
+            "Wt (kg)": 0.15,
+            "Discharge Table": "B",
+            "Working Pressure": "150 \u2010 700 psi"
+        },
+        {
+            "Part Number *": "A 15503",
+            "NPTFE A (in)": "3/8",
+            "Flare B (in)": "1/2",
+            "C (in)": 3,
+            "C (mm)": 76,
+            "Wt (lb)": 0.35,
+            "Wt (kg)": 0.16,
+            "Discharge Table": "B",
+            "Working Pressure": "150 \u2010 700 psi"
+        },
+        {
+            "Part Number *": "A 18737",
+            "NPTFE A (in)": "3/8",
+            "Flare B (in)": "5/8",
+            "C (in)": 4.2,
+            "C (mm)": 107,
+            "Wt (lb)": 0.98,
+            "Wt (kg)": 0.45,
+            "Discharge Table": "C",
+            "Working Pressure": "150 \u2010 700 psi"
+        },
+        {
+            "Part Number *": "A 18783",
+            "NPTFE A (in)": "3/8",
+            "Flare B (in)": "1/2",
+            "C (in)": 4.2,
+            "C (mm)": 107,
+            "Wt (lb)": 0.95,
+            "Wt (kg)": 0.43,
+            "Discharge Table": "C",
+            "Working Pressure": "150 \u2010 700 psi"
+        },
+        {
+            "Part Number *": "A 15504",
+            "NPTFE A (in)": "1/2",
+            "Flare B (in)": "5/8",
+            "C (in)": 4.2,
+            "C (mm)": 107,
+            "Wt (lb)": 0.84,
+            "Wt (kg)": 0.38,
+            "Discharge Table": "C",
+            "Working Pressure": "150 \u2010 700 psi"
+        }
+    ],
+    "NPTFE Inlet to NPTFI Outlet": [
+        {
+            "Part Number": "A 18736",
+            "NPTFE A (in)": "3/8",
+            "NPTFI B (in)": "3/4",
+            "C (in)": 4,
+            "C (mm)": 102,
+            "Wt (lb)": 0.98,
+            "Wt (kg)": 0.45,
+            "Discharge Table": "C",
+            "Working Pressure": "150 \u2010 700 psi"
+        },
+        {
+            "Part Number": "A 18356",
+            "NPTFE A (in)": "1/2",
+            "NPTFI B (in)": "1/2",
+            "C (in)": 3.99,
+            "C (mm)": 101,
+            "Wt (lb)": 0.96,
+            "Wt (kg)": 0.43,
+            "Discharge Table": "G",
+            "Working Pressure": "150 \u2010 450 psi"
+        },
+        {
+            "Part Number": "A 18762",
+            "NPTFE A (in)": "1/2",
+            "NPTFI B (in)": "3/4",
+            "C (in)": 4,
+            "C (mm)": 102,
+            "Wt (lb)": 0.94,
+            "Wt (kg)": 0.43,
+            "Discharge Table": "C",
+            "Working Pressure": "150 \u2010 700 psi"
+        },
+        {
+            "Part Number": "A 18357",
+            "NPTFE A (in)": "1/2",
+            "NPTFI B (in)": "3/4",
+            "C (in)": 3.99,
+            "C (mm)": 101,
+            "Wt (lb)": 0.89,
+            "Wt (kg)": 0.4,
+            "Discharge Table": "G",
+            "Working Pressure": "150 \u2010 450 psi"
+        },
+        {
+            "Part Number": "A 15506",
+            "NPTFE A (in)": "3/4",
+            "NPTFI B (in)": "3/4",
+            "C (in)": 4.95,
+            "C (mm)": 126,
+            "Wt (lb)": 1.53,
+            "Wt (kg)": 0.69,
+            "Discharge Table": "D",
+            "Working Pressure": "150 \u2010 450 psi"
+        },
+        {
+            "Part Number": "A 18358",
+            "NPTFE A (in)": "3/4",
+            "NPTFI B (in)": "3/4",
+            "C (in)": 3.99,
+            "C (mm)": 101,
+            "Wt (lb)": 0.93,
+            "Wt (kg)": 0.42,
+            "Discharge Table": "G",
+            "Working Pressure": "150 \u2010 450 psi"
+        },
+        {
+            "Part Number": "A 18422",
+            "NPTFE A (in)": "3/4",
+            "NPTFI B (in)": "3/4",
+            "C (in)": 4.95,
+            "C (mm)": 126,
+            "Wt (lb)": 1.6,
+            "Wt (kg)": 0.73,
+            "Discharge Table": "H",
+            "Working Pressure": "600 \u2010 700 psi"
+        },
+        {
+            "Part Number": "A 18735",
+            "NPTFE A (in)": "3/4",
+            "NPTFI B (in)": 1,
+            "C (in)": 4.6,
+            "C (mm)": 117,
+            "Wt (lb)": 1.49,
+            "Wt (kg)": 0.68,
+            "Discharge Table": "E",
+            "Working Pressure": "150 \u2010 450 psi"
+        },
+        {
+            "Part Number": "A 17840",
+            "NPTFE A (in)": 1,
+            "NPTFI B (in)": 1,
+            "C (in)": 4.6,
+            "C (mm)": 117,
+            "Wt (lb)": 1.45,
+            "Wt (kg)": 0.66,
+            "Discharge Table": "E",
+            "Working Pressure": "150 \u2010 450 psi"
+        },
+        {
+            "Part Number": "A 18387",
+            "NPTFE A (in)": 1,
+            "NPTFI B (in)": 1,
+            "C (in)": 4.94,
+            "C (mm)": 125,
+            "Wt (lb)": 1.81,
+            "Wt (kg)": 0.82,
+            "Discharge Table": "F",
+            "Working Pressure": "150 \u2010 450 psi"
+        },
+        {
+            "Part Number": "A 18424",
+            "NPTFE A (in)": 1,
+            "NPTFI B (in)": 1,
+            "C (in)": 4.77,
+            "C (mm)": 121,
+            "Wt (lb)": 1.58,
+            "Wt (kg)": 0.72,
+            "Discharge Table": "J",
+            "Working Pressure": "150 \u2010 350 psi"
+        },
+        {
+            "Part Number": "A 18444",
+            "NPTFE A (in)": 1,
+            "NPTFI B (in)": "1 1/4",
+            "C (in)": 5.24,
+            "C (mm)": 133,
+            "Wt (lb)": 1.98,
+            "Wt (kg)": 0.9,
+            "Discharge Table": "K",
+            "Working Pressure": "150 \u2010 450 psi"
+        },
+        {
+            "Part Number": "A 17834",
+            "NPTFE A (in)": "1 1/4",
+            "NPTFI B (in)": "1 1/4",
+            "C (in)": 4.94,
+            "C (mm)": 125,
+            "Wt (lb)": 2,
+            "Wt (kg)": 0.91,
+            "Discharge Table": "F",
+            "Working Pressure": "150 \u2010 450 psi"
+        },
+        {
+            "Part Number": "A 18425",
+            "NPTFE A (in)": "1 1/4",
+            "NPTFI B (in)": "1 1/4",
+            "C (in)": 5.24,
+            "C (mm)": 133,
+            "Wt (lb)": 2.17,
+            "Wt (kg)": 0.99,
+            "Discharge Table": "K",
+            "Working Pressure": "150 \u2010 450 psi"
+        }
+    ],
+    "Straight Thread Inlet to Flare Outlet": [
+        {
+            "Part Number": "B 35413",
+            "Inlet A (in)": "7/8 \u2013 14 UNF \u2013 2A",
+            "Outlet B (in)": "5/8",
+            "C (in)": 4.19,
+            "C (mm)": 106,
+            "Wt (lb)": 0.92,
+            "Wt (kg)": 0.42,
+            "Discharge Table": "C",
+            "Working Pressure": "150 \u2010 700 psi"
+        }
+    ],
+    "Straight Thread Inlet to NPTFI Outlet": [
+        {
+            "Part Number": "B 34444",
+            "Inlet A (in)": "7/8 \u2010 14UNF \u2010 2A",
+            "Outlet B (in)": "3/4",
+            "C (in)": 5,
+            "C (mm)": 127,
+            "Wt (lb)": 1.53,
+            "Wt (kg)": 0.69,
+            "Discharge Table": "D",
+            "Working Pressure": "150 \u2010 450 psi"
+        },
+        {
+            "Part Number": "A 18540",
+            "Inlet A (in)": "7/8 \u2010 14UNF \u2010 2A",
+            "Outlet B (in)": "3/4",
+            "C (in)": 3.99,
+            "C (mm)": 101,
+            "Wt (lb)": 0.96,
+            "Wt (kg)": 0.44,
+            "Discharge Table": "G",
+            "Working Pressure": "150 \u2010 450 psi"
+        },
+        {
+            "Part Number": "B 34519",
+            "Inlet A (in)": "1 5/16\u201012UN\u20132A",
+            "Outlet B (in)": 1,
+            "C (in)": 4.38,
+            "C (mm)": 111,
+            "Wt (lb)": 1.37,
+            "Wt (kg)": 0.62,
+            "Discharge Table": "E",
+            "Working Pressure": "150 \u2010 450 psi"
+        },
+        {
+            "Part Number": "B 34580",
+            "Inlet A (in)": "1 5/8\u201012UN\u20132A",
+            "Outlet B (in)": "1 1/4",
+            "C (in)": 5,
+            "C (mm)": 127,
+            "Wt (lb)": 2.3,
+            "Wt (kg)": 1.04,
+            "Discharge Table": "F",
+            "Working Pressure": "150 \u2010 450 psi"
+        }
+    ]
+}
